@@ -1,7 +1,7 @@
 # Projeto em Sistemas de Informação
 <kbd>P</kbd><kbd>S</kbd><kbd>I</kbd>    <kbd>2</kbd><kbd>0</kbd><kbd>2</kbd><kbd>1</kbd>
 
-* [Groups](https://github.com/marcovicente/psi2-projeto/blob/master/groups.md)
+* [Groups](https://github.com/marcovicente/psi-21-22/blob/master/groups.md)
 
 ## Getting Started ##
 * [Product Vision](#product_vision)
