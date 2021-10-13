@@ -235,3 +235,30 @@
 * Um projeto funcional com design simples.
 ### I Like
 * Stuff going very well
+
+<a name="group_FG"></a>
+## Group FG
+### Participants
+* Francisco Matias
+* Gabriel Miranda
+### Statu
+- [X] [Product Vision](https://myipleiria-my.sharepoint.com/:p:/g/personal/2190771_my_ipleiria_pt/EdrklZ03wvFGpbRJbXHnvFIBRltfoKtaCOCDjAu8ttT7pw?e=npC4CQ)
+- [ ] Product Backlog
+- [ ] Planning
+- [ ] Sprint Planning 
+- [ ] Architecture
+- [ ] Database (Diagram, Structure)
+- [ ] Documentation
+- [ ] Source Control
+  - [ ] [Git Mobile]()
+  - [ ] [Git APIs]()
+  - [ ] [App Web]()
+  - [ ] [BD]()
+- [ ] Unit Tests
+- [ ] Mobile Development
+- [ ] UI Style Guide
+### I Wish
+* Que a aplicação Android e o website sejam funcionais, práticos, com um bom tempo de resposta e com um design agradável para todos os utilizadores
+### I Like
+* Stuff going very well
+---
