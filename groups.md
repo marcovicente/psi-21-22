@@ -1,5 +1,5 @@
 ## Groups ##
-* [XXX](#group_xxx)
+* [Group ADG](#group_adg)
 
 <a name="group_XXX"></a>
 ## Group [NAME]
@@ -30,7 +30,7 @@
 * Stuff going very well
 ---
 ## Groups ##
-* [Grupo ADG](#group_xxx)
+* [Grupo ADG](#group_adg)
 
 <a name="Grupo ADG"></a>
 ## Group [Grupo ADG]
