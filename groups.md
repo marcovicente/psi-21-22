@@ -5,6 +5,7 @@
 * [Group CicloDias](#group_CCD)
 * [Group Fiori](#group_Fiori)
 * [Group RJ](#group_RJ)
+* [Group LPG](#group_LPG)
 
 <a name="group_adg"></a>
 ## Group ADG
@@ -173,5 +174,34 @@
 - [ ] UI Style Guide
 ### I Wish
 * Stuff that could be improved
+### I Like
+* Stuff going very well
+
+<a name="group_lpg"></a>
+## Group LPG
+### Participants
+* Leonardo Ferreira
+* Pedro Vítor
+* Guilherme Cruz
+### Status
+- [X] [Product Vision](https://github.com/IPL-Grupo-LPG/Jobby-Documentation)
+- [ ] Product Backlog
+- [ ] Planning
+- [ ] Sprint Planning 
+- [ ] Architecture
+- [ ] Database (Diagram, Structure)
+- [x] [Source Control](https://github.com/IPL-Grupo-LPG)
+  - [x] [Git Mobile](https://github.com/IPL-Grupo-LPG/jobby-android)
+  - [ ] Git APIs
+  - [x] [App Web](https://github.com/IPL-Grupo-LPG/jobby-website)
+ - [x] Documentation
+    - [x] [App Web](https://github.com/IPL-Grupo-LPG/jobby-website/tree/main/documentation)
+    - [x] [Git Mobile](https://github.com/IPL-Grupo-LPG/jobby-android/tree/main/documentation)
+  - [ ] BD
+- [ ] Unit Tests
+- [ ] Mobile Development
+- [ ] UI Style Guide
+### I Wish
+* Que a aplicação seja rápida, segura e de fácil uso.
 ### I Like
 * Stuff going very well
