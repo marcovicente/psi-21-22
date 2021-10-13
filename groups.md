@@ -125,16 +125,16 @@
 * [Andreia Agostinho Batista]
 * [Claudia Sofia Macedo Correia]
 ### Status
-- [x] Product Vision
-- [x] Product Backlog
-- [ ] [Sources Web](https://github.com/Tjay98/projetoburguer)
+- [x] [Product Vision](https://github.com/AndreiaAgostinho/Fiori/blob/main/Documentos%20Gerais/Product%20Vision%20-%20Fiori.pptx)
+- [x] [Product Backlog](https://github.com/AndreiaAgostinho/Fiori/blob/main/Documentos%20Gerais/Fiori_Prop.Projeto%20.docx)
+- [ ] Sources Web
 - [ ] Sources Android
-- [x] Planning
-- [x] Sprint Planning 
+- [x] [Planning](https://andreiaagostinho.atlassian.net/jira/software/projects/PF/boards/4)
+- [x] [Sprint Planning](https://andreiaagostinho.atlassian.net/jira/software/projects/PF/boards/4)
 - [ ] Architecture
-- [x] Database (Diagram, Structure)
+- [x] [Database (Diagram, Structure)](https://github.com/AndreiaAgostinho/Fiori/blob/main/Base%20de%20Dados/fiori.sql)
 - [ ] Documentation
-- [x] Source Control
+- [x] [Source Control](https://github.com/AndreiaAgostinho/Fiori)
   - [x] Git Mobile
   - [x] Git APIs
   - [x] App Web
