@@ -52,8 +52,8 @@
 - [ ] Database (Diagram, Structure)
 - [ ] Documentation
 - [ ] Source Control
-  - [ ] Git Mobile
-  - [ ] Git APIs
+  - [ ] [Git Mobile](https://github.com/lourencobitten1769/ProjetoMobile)
+  - [ ] [Git APIs](https://github.com/lourencobitten1769/ProjetoAPI)
   - [ ] [App Web](https://github.com/lourencobitten1769/ProjetoWEB)
   - [ ] BD
 - [ ] Unit Tests
