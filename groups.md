@@ -4,7 +4,7 @@
 * [Group RAR](#group_rar)
 * [Group CicloDias](#group_CCD)
 * [Group Fiori](#group_Fiori)
-* 
+
 <a name="group_adg"></a>
 ## Group ADG
 ### Participants
@@ -116,8 +116,7 @@
 * Ter um sistema rápido e fiável
 ### I Like
 * Stuff going very well
-
-
+---
 
 <a name="group_Fiori"></a>
 ## Group [NAME]
