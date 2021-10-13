@@ -244,6 +244,7 @@
 * Gabriel Miranda
 ### Status
 - [X] [Product Vision](https://myipleiria-my.sharepoint.com/:p:/g/personal/2190771_my_ipleiria_pt/EdrklZ03wvFGpbRJbXHnvFIBRltfoKtaCOCDjAu8ttT7pw?e=npC4CQ)
+- [ ] Business Model Canvas (20 Nov)
 - [ ] Product Backlog (20 Nov)
 - [ ] Planning (20 Nov)
 - [ ] Sprint Planning (20 Nov) 
