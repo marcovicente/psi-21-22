@@ -4,7 +4,8 @@
 * [Group RAR](#group_rar)
 * [Group CicloDias](#group_CCD)
 * [Group Fiori](#group_Fiori)
-
+* [Group RJ](#group_RJ)
+* 
 <a name="group_adg"></a>
 ## Group ADG
 ### Participants
@@ -116,10 +117,11 @@
 * Ter um sistema rápido e fiável
 ### I Like
 * Stuff going very well
----
+
+
 
 <a name="group_Fiori"></a>
-## Group Fiori
+## Group [NAME]
 ### Participants
 * [Andreia Agostinho Batista]
 * [Claudia Sofia Macedo Correia]
@@ -146,3 +148,31 @@
 ### I Like
 * Stuff going very well
 
+
+<a name="group_RJ"></a>
+## Group [RJ]
+### Participants
+* [João Mota]
+* [Renan Soares]
+### Status
+- [ ] Product Vision
+- [ ] Product Backlog
+- [ ] [Sources Web](https://github.com/Tjay98/projetoburguer)
+- [ ] Sources Android
+- [ ] Planning
+- [ ] Sprint Planning 
+- [ ] Architecture
+- [ ] Database (Diagram, Structure)
+- [ ] Documentation
+- [ ] Source Control
+  - [ ] Git Mobile
+  - [ ] Git APIs
+  - [ ] App Web
+  - [ ] BD
+- [ ] Unit Tests
+- [ ] Mobile Development
+- [ ] UI Style Guide
+### I Wish
+* Stuff that could be improved
+### I Like
+* Stuff going very well
