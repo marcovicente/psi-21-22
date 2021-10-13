@@ -215,9 +215,9 @@
 * Pedro Monteiro
 ### Status
 - [X] Product Vision
-- [X] Product Backlog (https://projetopsi.atlassian.net/jira/software/projects/PSI/boards/1/backlog?selectedIssue=PSI-1)
+- [X] [Product Backlog](https://projetopsi.atlassian.net/jira/software/projects/PSI/boards/1/backlog?selectedIssue=PSI-1)
 - [x] [Sources Web](https://github.com/PedroMonteiro1511/Projeto-PSI)
-- [x] Sources Android (https://github.com/PedroMonteiro1511/Projeto-AMSI)
+- [x] [Sources Android](https://github.com/PedroMonteiro1511/Projeto-AMSI)
 - [X] Planning
 - [ ] Sprint Planning 
 - [ ] Architecture
