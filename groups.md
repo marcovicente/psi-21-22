@@ -94,7 +94,7 @@
 * Gabriel Silva
 * Iuri Carrasqueiro 
 ### Status
-- [x] Product Vision(https://myipleiria-my.sharepoint.com/:b:/g/personal/2201127_my_ipleiria_pt/Ef5_oWKXc4ZMnAZ3FiKBuNoB8REaAkbKBy0B23XhVbmP_w?e=A6tWgq)
+- [x] Product Vision(https://bit.ly/3iVgfgY)
 - [ ] Product Backlog
 - [x] [Sources Web](https://github.com/GabrielMCS01/PSI_PlatSI)
 - [x] [Sources Android](https://github.com/GabrielMCS01/PSI_AMSI)
