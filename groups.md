@@ -13,23 +13,23 @@
 * Diogo Pereira
 * Gonçalo Ferreira
 ### Status
-- [X] Product Vision
-- [X] Product Backlog
-- [x] [Sources Web](https://github.com/DiogoRCP/PSI_PROJETO_ADG)
-- [x] Sources Android
-- [X] Planning
-- [X] Sprint Planning 
+- [X] [Product Vision](https://github.com/DiogoRCP/PSI_PROJETO_ADG/blob/main/doc/Projeto.pptx)
+- [X] [Product Backlog](https://psi-da-mds-ga.atlassian.net/jira/software/projects/PPA/boards/4/backlog)
+- [x] [Sources Web](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/main/web)
+- [x] [Sources Android](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/main/app)
+- [X] [Planning](https://psi-da-mds-ga.atlassian.net/jira/software/projects/PPA/boards/4/backlog)
+- [X] [Sprint Planning](https://psi-da-mds-ga.atlassian.net/jira/software/projects/PPA/boards/4/backlog) 
 - [ ] Architecture
-- [x] Database (Diagram, Structure)
+- [x] [Database (Diagram, Structure)](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/main/database)
 - [ ] Documentation
-- [x] Source Control
-  - [x] Git Mobile
+- [x] [Source Control](https://github.com/DiogoRCP/PSI_PROJETO_ADG)
+  - [x] [Git Mobile](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/main/app)
   - [x] Git APIs
-  - [x] App Web
-  - [x] BD
+  - [x] [App Web](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/main/web)
+  - [x] [BD](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/main/database)
 - [ ] Unit Tests
 - [ ] Mobile Development
-- [x] UI Style Guide
+- [x] [UI Style Guide](https://www.figma.com/file/T3SWniUQivSStoY5D7SEgH/carros?node-id=0%3A1)
 ### I Wish
 * Que a aplicação e o site tenham um design elegante e agradável
 ### I Like
