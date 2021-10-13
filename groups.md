@@ -1,5 +1,6 @@
 ## Groups ##
 * [Group ADG](#group_adg)
+* [Group MBAPEEK](#group_mbapeek)
 
 <a name="group_XXX"></a>
 ## Group [NAME]
@@ -58,3 +59,31 @@
 * Que a aplicação e o site tenham um design elegante e agradável
 ### I Like
 * Stuff going very well
+
+
+<a name="group_mbapeek"></a>
+## Group MBAPEEK
+### Participants
+* Lourenço Gomes
+* Simão Ventura
+* Tomás Cândido
+### Status
+- [X] Product Vision
+- [ ] Product Backlog
+- [ ] Planning
+- [ ] Sprint Planning 
+- [ ] Architecture
+- [ ] Database (Diagram, Structure)
+- [ ] Documentation
+- [ ] Source Control
+  - [ ] Git Mobile
+  - [ ] Git APIs
+  - [ ] [App Web](https://github.com/lourencobitten1769/ProjetoWEB)
+  - [ ] BD
+- [ ] Unit Tests
+- [ ] UI Style Guide
+### I Wish
+* Stuff that could be improved
+### I Like
+* Stuff going very well
+
