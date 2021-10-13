@@ -5,6 +5,7 @@
 * [Group CicloDias](#group_CCD)
 * [Group Fiori](#group_Fiori)
 * [Group RJ](#group_RJ)
+* [Group FJP](#group_fjp)
 
 <a name="group_adg"></a>
 ## Group ADG
@@ -173,5 +174,34 @@
 - [ ] UI Style Guide
 ### I Wish
 * Stuff that could be improved
+### I Like
+* Stuff going very well
+
+<a name="group_fjp"></a>
+## Group FJP
+### Participants
+* Filipa Coutinho
+* José Ramos
+* Pedro Monteiro
+### Status
+- [X] Product Vision
+- [X] Product Backlog (https://projetopsi.atlassian.net/jira/software/projects/PSI/boards/1/backlog?selectedIssue=PSI-1)
+- [x] [Sources Web](https://github.com/PedroMonteiro1511/Projeto-PSI)
+- [x] Sources Android (https://github.com/PedroMonteiro1511/Projeto-AMSI)
+- [X] Planning
+- [ ] Sprint Planning 
+- [ ] Architecture
+- [x] Database (Diagram, Structure)
+- [ ] Documentation
+- [x] Source Control
+  - [x] Git Mobile
+  - [x] Git APIs
+  - [x] App Web
+  - [] BD
+- [ ] Unit Tests
+- [ ] Mobile Development
+- [x] UI Style Guide
+### I Wish
+* Um projeto funcional com design simples.
 ### I Like
 * Stuff going very well
