@@ -242,7 +242,7 @@
 ### Participants
 * Francisco Matias
 * Gabriel Miranda
-### Statu
+### Status
 - [X] [Product Vision](https://myipleiria-my.sharepoint.com/:p:/g/personal/2190771_my_ipleiria_pt/EdrklZ03wvFGpbRJbXHnvFIBRltfoKtaCOCDjAu8ttT7pw?e=npC4CQ)
 - [ ] Product Backlog
 - [ ] Planning
