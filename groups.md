@@ -2,39 +2,10 @@
 * [Group ADG](#group_adg)
 * [Group MBAPEEK](#group_mbapeek)
 * [Group RAR](#group_rar)
-* [Group Ciclo Dias](#group_CCD)
-
-<a name="group_XXX"></a>
-## Group [NAME]
-### Participants
-* [NAME]
-* [NAME]
-### Status
-- [ ] Product Vision
-- [ ] Product Backlog
-- [ ] [Sources Web](https://github.com/Tjay98/projetoburguer)
-- [ ] Sources Android
-- [ ] Planning
-- [ ] Sprint Planning 
-- [ ] Architecture
-- [ ] Database (Diagram, Structure)
-- [ ] Documentation
-- [ ] Source Control
-  - [ ] Git Mobile
-  - [ ] Git APIs
-  - [ ] App Web
-  - [ ] BD
-- [ ] Unit Tests
-- [ ] Mobile Development
-- [ ] UI Style Guide
-### I Wish
-* Stuff that could be improved
-### I Like
-* Stuff going very well
----
+* [Group CicloDias](#group_CCD)
 
 <a name="group_adg"></a>
-## Group [Grupo ADG]
+## Group ADG
 ### Participants
 * Alberto Correia
 * Diogo Pereira
@@ -88,10 +59,10 @@
 * Stuff that could be improved
 ### I Like
 * Stuff going very well
-
+---
 
 <a name="group_rar"></a>
-## Group [RAR]
+## Group RAR
 ### Participants
 * Ricardo Romão
 * André Santos
@@ -118,13 +89,13 @@
 ---
 
 <a name="group_CCD"></a>
-## Group [CicloDias]
+## Group CicloDias
 ### Participants
 * Gabriel Silva
 * Iuri Carrasqueiro 
 ### Status
 - [x] Product Vision(https://myipleiria-my.sharepoint.com/:b:/g/personal/2201127_my_ipleiria_pt/Ef5_oWKXc4ZMnAZ3FiKBuNoB8REaAkbKBy0B23XhVbmP_w?e=A6tWgq)
-- [  ] Product Backlog
+- [ ] Product Backlog
 - [x] [Sources Web](https://github.com/GabrielMCS01/PSI_PlatSI)
 - [x] [Sources Android](https://github.com/GabrielMCS01/PSI_AMSI)
 - [x] Planning
