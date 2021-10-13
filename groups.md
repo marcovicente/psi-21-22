@@ -157,12 +157,10 @@
 * [João Mota]
 * [Renan Soares]
 ### Status
-- [ ] Product Vision
-- [ ] Product Backlog
-- [ ] Sources Web
-- [ ] Sources Android
-- [ ] Planning
-- [ ] Sprint Planning 
+- [ ] Product Vision & Business Model Canvas (20 Nov)
+- [ ] Product Backlog (20 Nov)
+- [ ] Planning (20 Nov)
+- [ ] Sprint Planning (20 Nov)
 - [ ] Architecture
 - [ ] Database (Diagram, Structure)
 - [ ] Documentation
