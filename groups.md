@@ -119,7 +119,7 @@
 ---
 
 <a name="group_Fiori"></a>
-## Group [NAME]
+## Group Fiori
 ### Participants
 * [Andreia Agostinho Batista]
 * [Claudia Sofia Macedo Correia]
