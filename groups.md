@@ -29,10 +29,8 @@
 ### I Like
 * Stuff going very well
 ---
-## Groups ##
-* [Grupo ADG](#group_adg)
 
-<a name="Grupo ADG"></a>
+<a name="group_adg"></a>
 ## Group [Grupo ADG]
 ### Participants
 * Alberto Correia
