@@ -227,7 +227,7 @@
   - [x] Git Mobile
   - [x] Git APIs
   - [x] App Web
-  - [] BD
+  - [ ] BD
 - [ ] Unit Tests
 - [ ] Mobile Development
 - [x] UI Style Guide
