@@ -3,7 +3,8 @@
 * [Group MBAPEEK](#group_mbapeek)
 * [Group RAR](#group_rar)
 * [Group CicloDias](#group_CCD)
-
+* [Group Fiori](#group_Fiori)
+* 
 <a name="group_adg"></a>
 ## Group ADG
 ### Participants
@@ -115,3 +116,34 @@
 * Ter um sistema rápido e fiável
 ### I Like
 * Stuff going very well
+
+
+
+<a name="group_Fiori"></a>
+## Group [NAME]
+### Participants
+* [Andreia Agostinho Batista]
+* [Claudia Sofia Macedo Correia]
+### Status
+- [x] Product Vision
+- [x] Product Backlog
+- [ ] [Sources Web](https://github.com/Tjay98/projetoburguer)
+- [ ] Sources Android
+- [x] Planning
+- [x] Sprint Planning 
+- [ ] Architecture
+- [x] Database (Diagram, Structure)
+- [ ] Documentation
+- [x] Source Control
+  - [x] Git Mobile
+  - [x] Git APIs
+  - [x] App Web
+  - [x] BD
+- [ ] Unit Tests
+- [ ] Mobile Development
+- [ ] UI Style Guide
+### I Wish
+* Stuff that could be improved
+### I Like
+* Stuff going very well
+
