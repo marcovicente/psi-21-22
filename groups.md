@@ -47,18 +47,18 @@
 * Simão Ventura
 * Tomás Cândido
 ### Status
-- [X] Product Vision
+- [X] [Product Vision](https://github.com/lourencobitten1769/ProjetoAPI/blob/main/MBAPEEK.pptx)
 - [ ] Product Backlog
 - [ ] Planning
 - [ ] Sprint Planning 
 - [ ] Architecture
 - [ ] Database (Diagram, Structure)
 - [ ] Documentation
-- [ ] Source Control
+- [X] Source Control
   - [X] [Git Mobile](https://github.com/lourencobitten1769/ProjetoMobile)
   - [X] [Git APIs](https://github.com/lourencobitten1769/ProjetoAPI)
   - [X] [App Web](https://github.com/lourencobitten1769/ProjetoWEB)
-  - [ ] BD
+  - [X] [BD](https://github.com/lourencobitten1769/ProjetoAPI/tree/main/BD)
 - [ ] Unit Tests
   - [X] [Prototyping](https://wireframepro.mockflow.com/view/M8pWCvVoQmb)
 - [ ] UI Style Guide
