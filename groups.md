@@ -1,6 +1,7 @@
 ## Groups ##
 * [Group ADG](#group_adg)
 * [Group MBAPEEK](#group_mbapeek)
+* [Group RAR](#group_rar)
 
 <a name="group_XXX"></a>
 ## Group [NAME]
@@ -87,3 +88,30 @@
 ### I Like
 * Stuff going very well
 
+
+<a name="group_rar"></a>
+## Group [RAR]
+### Participants
+* Ricardo Romão
+* André Santos
+* Rafael Guerra
+### Status
+- [X] [Product Vision]()
+- [ ] Product Backlog
+- [ ] Planning
+- [ ] Sprint Planning 
+- [ ] Architecture
+- [ ] Database (Diagram, Structure)
+- [ ] Documentation
+- [ ] Source Control
+  - [ ] [Git Mobile]()
+  - [ ] [Git APIs]()
+  - [ ] [App Web]()
+  - [ ] [BD]()
+- [ ] Unit Tests
+- [ ] UI Style Guide
+### I Wish
+* Stuff that could be improved
+### I Like
+* Stuff going very well
+---
