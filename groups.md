@@ -73,10 +73,11 @@
 * André Santos
 * Rafael Guerra
 ### Status
-- [X] [Product Vision]()
-- [ ] Product Backlog
-- [ ] Planning
-- [ ] Sprint Planning 
+- [X] [Product Vision] (20 NOV)
+- [ ] Business Model Canvas (20 NOV)
+- [ ] Product Backlog (20 NOV)
+- [ ] Planning (20 NOV)
+- [ ] Sprint Planning  (20 NOV)
 - [ ] Architecture
 - [ ] Database (Diagram, Structure)
 - [ ] Documentation
