@@ -244,17 +244,17 @@
 * Gabriel Miranda
 ### Status
 - [X] [Product Vision](https://myipleiria-my.sharepoint.com/:p:/g/personal/2190771_my_ipleiria_pt/EdrklZ03wvFGpbRJbXHnvFIBRltfoKtaCOCDjAu8ttT7pw?e=npC4CQ)
-- [ ] Product Backlog
-- [ ] Planning
-- [ ] Sprint Planning 
+- [ ] Product Backlog (20 Nov)
+- [ ] Planning (20 Nov)
+- [ ] Sprint Planning (20 Nov) 
 - [ ] Architecture
 - [ ] Database (Diagram, Structure)
 - [ ] Documentation
 - [ ] Source Control
-  - [ ] [Git Mobile]()
-  - [ ] [Git APIs]()
-  - [ ] [App Web]()
-  - [ ] [BD]()
+  - [ ] Git Mobile
+  - [ ] Git APIs
+  - [ ] App Web
+  - [ ] BD
 - [ ] Unit Tests
 - [ ] Mobile Development
 - [ ] UI Style Guide
