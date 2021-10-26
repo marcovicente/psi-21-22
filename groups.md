@@ -188,11 +188,16 @@
 * Guilherme Cruz
 ### Status
 - [X] [Product Vision](https://github.com/IPL-Grupo-LPG/Jobby-Documentation)
-- [ ] Product Backlog
+- [X] [Product Backlog](https://student-ipleiria.atlassian.net/jira/software/c/projects/JOB/boards/8/backlog?issueLimit=100)
 - [ ] Planning
-- [ ] Sprint Planning 
+- [X] [Sprint Planning](https://student-ipleiria.atlassian.net/jira/software/c/projects/JOB/boards/8)
+- [X] [Sprint Reports](https://student-ipleiria.atlassian.net/projects/JOB?selectedItem=com.atlassian.jira.jira-projects-plugin%3Areport-page) 
+  - [X] [Burndown Graphic](https://student-ipleiria.atlassian.net/jira/software/c/projects/JOB/boards/8/reports/burndown-chart?sprint=20&estimate=field_customfield_10028)
+  - [X] [Burnup Graphic](https://student-ipleiria.atlassian.net/jira/software/c/projects/JOB/boards/8/reports/burnup-chart?sprint=20)
+  - [X] [Sprint Report](https://student-ipleiria.atlassian.net/jira/software/c/projects/JOB/boards/8/reports/sprint-retrospective?sprint=18)
 - [ ] Architecture
 - [ ] Database (Diagram, Structure)
+- [ ] [Project Costs](https://github.com/IPL-Grupo-LPG/jobby-documentation)
 - [x] [Source Control](https://github.com/IPL-Grupo-LPG)
   - [x] [Git Mobile](https://github.com/IPL-Grupo-LPG/jobby-android)
   - [ ] Git APIs
