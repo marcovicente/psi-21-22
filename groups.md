@@ -7,7 +7,7 @@
 * [Group RJ](#group_RJ)
 * [Group LPG](#group_LPG)
 * [Group FJP](#group_fjp)
-* [PC Build&Fix](#group_PC-Build&Fix)
+* [Group FG](#group_FG)
 * [Group SnakRestaurant](#group_SnakRestaurant)
 
 <a name="group_adg"></a>
@@ -75,19 +75,19 @@
 * André Santos
 * Rafael Guerra
 ### Status
-- [X] [Product Vision] (20 NOV)
-- [ ] Business Model Canvas (20 NOV)
-- [ ] Product Backlog (20 NOV)
+- [X] [Product Vision](https://github.com/rromao236/Projeto2ano/blob/main/Ideia%20projeto.pptx)
+- [ ] [Business Model Canvas](https://github.com/rromao236/Projeto2ano/blob/main/business-model-canvas.docx)
+- [ ] Product Backlog(https://andresantos2201130.atlassian.net/jira/software/projects/PRJT2N/boards/4/backlog)
 - [ ] Planning (20 NOV)
-- [ ] Sprint Planning  (20 NOV)
+- [ ] Sprint Planning(https://andresantos2201130.atlassian.net/jira/software/projects/PRJT2N/boards/4)
 - [ ] Architecture
 - [ ] Database (Diagram, Structure)
 - [ ] Documentation
 - [ ] Source Control
-  - [ ] [Git Mobile]()
-  - [ ] [Git APIs]()
-  - [ ] [App Web]()
-  - [ ] [BD]()
+  - [ ] [Git Mobile](https://github.com/rromao236/Projeto2ano/tree/main/Mobile)
+  - [ ] [Git APIs](https://github.com/rromao236/Projeto2ano/tree/main/API)
+  - [ ] [App Web](https://github.com/rromao236/Projeto2ano/tree/main/Web)
+  - [ ] [BD](https://github.com/rromao236/Projeto2ano/tree/main/BD)
 - [ ] Unit Tests
 - [ ] UI Style Guide
 ### I Wish
@@ -160,14 +160,14 @@
 * [João Mota]
 * [Renan Soares]
 ### Status
-- [ ] Product Vision & Business Model Canvas (20 Nov)
-- [ ] Product Backlog (20 Nov)
-- [ ] Planning (20 Nov)
-- [ ] Sprint Planning (20 Nov)
+- [x] [roduct Vision & Business Model Canvas](https://github.com/Jmota08/projetos_sistema_informacao/blob/main/Docs/business-model-canvas.docx)
+- [ ] Product Backlog ()
+- [ ] Planning ()
+- [ ] Sprint Planning ()
 - [ ] Architecture
 - [ ] Database (Diagram, Structure)
 - [ ] Documentation
-- [ ] Source Control
+- [x] [Source Control](https://github.com/renan0499/projetos_sistema_informacao)
   - [ ] Git Mobile
   - [ ] Git APIs
   - [ ] App Web
@@ -188,11 +188,16 @@
 * Guilherme Cruz
 ### Status
 - [X] [Product Vision](https://github.com/IPL-Grupo-LPG/Jobby-Documentation)
-- [ ] Product Backlog
+- [X] [Product Backlog](https://student-ipleiria.atlassian.net/jira/software/c/projects/JOB/boards/8/backlog?issueLimit=100)
 - [ ] Planning
-- [ ] Sprint Planning 
+- [X] [Sprint Planning](https://student-ipleiria.atlassian.net/jira/software/c/projects/JOB/boards/8)
+- [X] [Sprint Reports](https://student-ipleiria.atlassian.net/projects/JOB?selectedItem=com.atlassian.jira.jira-projects-plugin%3Areport-page) 
+  - [X] [Burndown Graphic](https://student-ipleiria.atlassian.net/jira/software/c/projects/JOB/boards/8/reports/burndown-chart?sprint=20&estimate=field_customfield_10028)
+  - [X] [Burnup Graphic](https://student-ipleiria.atlassian.net/jira/software/c/projects/JOB/boards/8/reports/burnup-chart?sprint=20)
+  - [X] [Sprint Report](https://student-ipleiria.atlassian.net/jira/software/c/projects/JOB/boards/8/reports/sprint-retrospective?sprint=18)
 - [ ] Architecture
 - [ ] Database (Diagram, Structure)
+- [ ] [Project Costs](https://github.com/IPL-Grupo-LPG/jobby-documentation)
 - [x] [Source Control](https://github.com/IPL-Grupo-LPG)
   - [x] [Git Mobile](https://github.com/IPL-Grupo-LPG/jobby-android)
   - [ ] Git APIs
@@ -238,29 +243,30 @@
 ### I Like
 * Stuff going very well
 
-<a name="group_PC-Build&Fix"></a>
-## PC Build&Fix
+<a name="group_FG"></a>
+## Group FG
 ### Participants
 * Francisco Matias
 * Gabriel Miranda
 ### Status
 - [X] [Product Vision](https://myipleiria-my.sharepoint.com/:p:/g/personal/2190771_my_ipleiria_pt/EdrklZ03wvFGpbRJbXHnvFIBRltfoKtaCOCDjAu8ttT7pw?e=npC4CQ)
 - [ ] Business Model Canvas (20 Nov)
-- [X] [Product Backlog](https://pc-buildnfix.atlassian.net/jira/software/c/projects/PBF/boards/2/backlog)
-- [X] Planning
-- [X] [Sprint Planning](https://pc-buildnfix.atlassian.net/jira/software/c/projects/PBF/boards/2/backlog) 
+- [ ] Product Backlog (20 Nov)
+- [ ] Planning (20 Nov)
+- [ ] Sprint Planning (20 Nov) 
 - [ ] Architecture
 - [ ] Database (Diagram, Structure)
 - [ ] Documentation
 - [ ] Source Control
-  - [X] [Git Mobile](https://github.com/franciscomatias771/pbf-android)
-  - [X] [Website and API](https://github.com/franciscomatias771/pbf-web)
+  - [ ] Git Mobile
+  - [ ] Git APIs
+  - [ ] App Web
   - [ ] BD
 - [ ] Unit Tests
 - [ ] Mobile Development
 - [ ] UI Style Guide
 ### I Wish
-* Que a app móvel e o website sejam funcionais, práticos, com um bom tempo de resposta e com um design agradável para todos os utilizadores
+* Que a aplicação Android e o website sejam funcionais, práticos, com um bom tempo de resposta e com um design agradável para todos os utilizadores
 ### I Like
 * Stuff going very well
 ---
