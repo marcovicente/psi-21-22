@@ -115,6 +115,7 @@
   - [ ] Git Mobile
   - [ ] Git APIs
   - [ ] App Web
+  - [ ] [Wearable App](https://developer.android.com/training/wearables/get-started/creating)
   - [ ] BD
 - [ ] Unit Tests
 - [ ] Mobile Development
