@@ -115,7 +115,6 @@
   - [ ] Git Mobile
   - [ ] Git APIs
   - [ ] App Web
-  - [ ] [Wearable App](https://developer.android.com/training/wearables/get-started/creating)
   - [ ] BD
 - [ ] Unit Tests
 - [ ] Mobile Development
@@ -161,17 +160,17 @@
 * [João Mota]
 * [Renan Soares]
 ### Status
-- [ ] Product Vision & Business Model Canvas (20 Nov)
-- [ ] Product Backlog (20 Nov)
-- [ ] Planning (20 Nov)
-- [ ] Sprint Planning (20 Nov)
+- [x] [Product Vision & Business Model Canvas](https://github.com/Jmota08/Projeto-em-SIS/blob/main/business-model-canvas.docx)
+- [x] [Product Backlog](https://mdsjoao08.atlassian.net/jira/software/c/projects/PF/boards/6/backlog?view=detail&selectedIssue=PF-3&issueLimit=100)
+- [x] [Planning](https://mdsjoao08.atlassian.net/jira/software/c/projects/PF/boards/6?atlOrigin=eyJpIjoiNTVlMmQ1NDUzYmIxNDI3YWE3YmNkZTc0YWM5ZDljZmMiLCJwIjoiaiJ9)
+- [x] [Sprint Planning](https://mdsjoao08.atlassian.net/jira/software/c/projects/PF/boards/6?atlOrigin=eyJpIjoiNTVlMmQ1NDUzYmIxNDI3YWE3YmNkZTc0YWM5ZDljZmMiLCJwIjoiaiJ9)
 - [ ] Architecture
 - [ ] Database (Diagram, Structure)
-- [ ] Documentation
+- [x] [Documentation](https://github.com/Jmota08/Projeto-em-SIS)
 - [ ] Source Control
   - [ ] Git Mobile
   - [ ] Git APIs
-  - [ ] App Web
+  - [x] [App Web](https://github.com/renan0499/projetos_sistema_informacao_web)
   - [ ] BD
 - [ ] Unit Tests
 - [ ] Mobile Development
