@@ -160,14 +160,14 @@
 * [João Mota]
 * [Renan Soares]
 ### Status
-- [ ] Product Vision & Business Model Canvas (20 Nov)
-- [ ] Product Backlog (20 Nov)
-- [ ] Planning (20 Nov)
-- [ ] Sprint Planning (20 Nov)
+- [x] [roduct Vision & Business Model Canvas] (https://github.com/Jmota08/projetos_sistema_informacao/blob/main/Docs/business-model-canvas.docx)
+- [ ] Product Backlog ()
+- [ ] Planning ()
+- [ ] Sprint Planning ()
 - [ ] Architecture
 - [ ] Database (Diagram, Structure)
 - [ ] Documentation
-- [ ] Source Control
+- [x] [Source Control] (https://github.com/renan0499/projetos_sistema_informacao)
   - [ ] Git Mobile
   - [ ] Git APIs
   - [ ] App Web
