@@ -75,19 +75,19 @@
 * André Santos
 * Rafael Guerra
 ### Status
-- [X] [Product Vision] (20 NOV)
-- [ ] Business Model Canvas (20 NOV)
-- [ ] Product Backlog (20 NOV)
+- [X] [Product Vision](https://github.com/rromao236/Projeto2ano/blob/main/Ideia%20projeto.pptx)
+- [ ] [Business Model Canvas](https://github.com/rromao236/Projeto2ano/blob/main/business-model-canvas.docx)
+- [ ] Product Backlog(https://andresantos2201130.atlassian.net/jira/software/projects/PRJT2N/boards/4/backlog)
 - [ ] Planning (20 NOV)
-- [ ] Sprint Planning  (20 NOV)
+- [ ] Sprint Planning(https://andresantos2201130.atlassian.net/jira/software/projects/PRJT2N/boards/4)
 - [ ] Architecture
 - [ ] Database (Diagram, Structure)
 - [ ] Documentation
 - [ ] Source Control
-  - [ ] [Git Mobile]()
-  - [ ] [Git APIs]()
-  - [ ] [App Web]()
-  - [ ] [BD]()
+  - [ ] [Git Mobile](https://github.com/rromao236/Projeto2ano/tree/main/Mobile)
+  - [ ] [Git APIs](https://github.com/rromao236/Projeto2ano/tree/main/API)
+  - [ ] [App Web](https://github.com/rromao236/Projeto2ano/tree/main/Web)
+  - [ ] [BD](https://github.com/rromao236/Projeto2ano/tree/main/BD)
 - [ ] Unit Tests
 - [ ] UI Style Guide
 ### I Wish
