@@ -25,15 +25,16 @@
 - [X] [Sprint Planning](https://psi-da-mds-ga.atlassian.net/jira/software/projects/PPA/boards/4/backlog) 
 - [ ] Architecture
 - [x] [Database (Diagram, Structure)](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/main/database)
-- [ ] Documentation
+- [X] [Documentation](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/develop/doc)
 - [x] [Source Control](https://github.com/DiogoRCP/PSI_PROJETO_ADG)
   - [x] [Git Mobile](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/main/app)
-  - [x] Git APIs
+  - [x] [Git APIs](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/develop/api/carbuddyAPI)
   - [x] [App Web](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/main/web)
   - [x] [BD](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/main/database)
 - [ ] Unit Tests
 - [ ] Mobile Development
-- [x] [UI Style Guide](https://www.figma.com/file/T3SWniUQivSStoY5D7SEgH/carros?node-id=0%3A1)
+- [ ] UI Style Guide
+- [x] [Prototyping](https://www.figma.com/file/T3SWniUQivSStoY5D7SEgH/carros?node-id=0%3A1)
 ### I Wish
 * Que a aplicação e o site tenham um design elegante e agradável
 ### I Like
