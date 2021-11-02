@@ -23,7 +23,7 @@
 - [x] [Sources Android](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/main/app)
 - [X] [Planning](https://psi-da-mds-ga.atlassian.net/jira/software/projects/PPA/boards/4/backlog)
 - [X] [Sprint Planning](https://psi-da-mds-ga.atlassian.net/jira/software/projects/PPA/boards/4/backlog) 
-- [ ] Architecture
+- [X] [Architecture](https://github.com/DiogoRCP/PSI_PROJETO_ADG/blob/develop/doc/Architecture.pptx)
 - [x] [Database (Diagram, Structure)](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/main/database)
 - [X] [Documentation](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/develop/doc)
 - [x] [Source Control](https://github.com/DiogoRCP/PSI_PROJETO_ADG)
