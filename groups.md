@@ -52,7 +52,7 @@
 - [ ] Product Backlog
 - [ ] Planning
 - [ ] Sprint Planning 
-- [ ] Architecture
+- [X] [Architecture](https://myipleiria-my.sharepoint.com/:p:/r/personal/2201136_my_ipleiria_pt/_layouts/15/Doc.aspx?sourcedoc=%7B92677C01-84D3-4CBA-8A81-8BE24E8D0085%7D&file=ArquitecturaReferencia%20(1).pptx&action=edit&mobileredirect=true)
 - [ ] Database (Diagram, Structure)
 - [ ] Documentation
 - [X] Source Control
