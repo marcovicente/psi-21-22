@@ -49,9 +49,9 @@
 * Tomás Cândido
 ### Status
 - [X] [Product Vision](https://github.com/lourencobitten1769/ProjetoAPI/blob/main/MBAPEEK.pptx)
-- [ ] Product Backlog
+- [X] [Product Backlog](https://team-1617787549990.atlassian.net/jira/software/projects/PT2/boards/5/backlog)
 - [ ] Planning
-- [ ] Sprint Planning 
+- [X] [Sprint Planning](https://team-1617787549990.atlassian.net/jira/software/projects/PT2/boards/5) 
 - [X] [Architecture](https://myipleiria-my.sharepoint.com/:p:/r/personal/2201136_my_ipleiria_pt/_layouts/15/Doc.aspx?sourcedoc=%7B92677C01-84D3-4CBA-8A81-8BE24E8D0085%7D&file=ArquitecturaReferencia%20(1).pptx&action=edit&mobileredirect=true)
 - [ ] Database (Diagram, Structure)
 - [ ] Documentation
