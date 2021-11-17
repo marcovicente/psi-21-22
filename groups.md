@@ -81,10 +81,10 @@
 - [X] [Product Backlog](https://andresantos2201130.atlassian.net/jira/software/projects/PRJT2N/boards/4/backlog)
 - [X] [Planning](https://andresantos2201130.atlassian.net/jira/software/projects/PRJT2N/boards/4/backlog)
 - [X] [Sprint Planning](https://andresantos2201130.atlassian.net/jira/software/projects/PRJT2N/boards/4)
-- [ ] [Architecture]()
+- [X] [Architecture](https://github.com/rromao236/Projeto2ano/blob/main/Documentos/ArquitecturaReferencia.pptx)
 - [X] [Database](https://github.com/rromao236/Projeto2ano/blob/main/BD/projeto2ano.drawio.png)
 - [X] [Documentation](https://github.com/rromao236/Projeto2ano/tree/main/Documentos)
-- [ ] Source Control
+- [X] Source Control
   - [X] [Git Mobile](https://github.com/rromao236/Projeto2ano/tree/main/Mobile)
   - [X] [Git APIs](https://github.com/rromao236/Projeto2ano/tree/main/API)
   - [X] [App Web](https://github.com/rromao236/Projeto2ano/tree/main/Web)
