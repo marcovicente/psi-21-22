@@ -134,13 +134,13 @@
 ### Status
 - [x] [Product Vision](https://github.com/AndreiaAgostinho/Fiori/blob/main/Documentos%20Gerais/Product%20Vision%20-%20Fiori.pptx)
 - [x] [Product Backlog](https://github.com/AndreiaAgostinho/Fiori/blob/main/Documentos%20Gerais/Fiori_Prop.Projeto%20.docx)
-- [ ] Sources Web
-- [ ] Sources Android
+- [x] [Sources Web](https://github.com/AndreiaAgostinho/Fiori/tree/main/Website/advanced)
+- [x] [Sources Android](https://github.com/AndreiaAgostinho/Fiori/tree/main/Fioriandroid)
 - [x] [Planning](https://andreiaagostinho.atlassian.net/jira/software/projects/PF/boards/4)
 - [x] [Sprint Planning](https://andreiaagostinho.atlassian.net/jira/software/projects/PF/boards/4)
-- [ ] Architecture
+- [x] [Architecture](https://github.com/AndreiaAgostinho/Fiori/blob/main/Documentos%20Gerais/Arq.ReferenciaFiori.pptx)
 - [x] [Database (Diagram, Structure)](https://github.com/AndreiaAgostinho/Fiori/blob/main/Base%20de%20Dados/fiori.sql)
-- [ ] Documentation
+- [x] [Documentation](https://github.com/AndreiaAgostinho/Fiori/tree/main/Documentos%20Gerais)
 - [x] [Source Control](https://github.com/AndreiaAgostinho/Fiori)
   - [x] Git Mobile
   - [x] Git APIs
