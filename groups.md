@@ -28,7 +28,7 @@
 - [X] [Documentation](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/develop/doc)
 - [x] [Source Control](https://github.com/DiogoRCP/PSI_PROJETO_ADG)
   - [x] [Git Mobile](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/main/app)
-  - [x] [Git APIs](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/develop/api/carbuddyAPI)
+  - [x] [Git APIs](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/develop/web/carbuddy/frontend/modules/api)
   - [x] [App Web](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/main/web)
   - [x] [BD](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/main/database)
 - [ ] Unit Tests
