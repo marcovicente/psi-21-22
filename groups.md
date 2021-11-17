@@ -195,19 +195,18 @@
   - [X] [Burndown Graphic](https://student-ipleiria.atlassian.net/jira/software/c/projects/JOB/boards/8/reports/burndown-chart?sprint=20&estimate=field_customfield_10028)
   - [X] [Burnup Graphic](https://student-ipleiria.atlassian.net/jira/software/c/projects/JOB/boards/8/reports/burnup-chart?sprint=20)
   - [X] [Sprint Report](https://student-ipleiria.atlassian.net/jira/software/c/projects/JOB/boards/8/reports/sprint-retrospective?sprint=18) 
-- [ ] Architecture
-- [ ] [Database (Diagram, Structure)](https://dbdiagram.io/d/616d8599940c4c4eec9b142a)
-- [ ] [Project Costs](https://github.com/IPL-Grupo-LPG/jobby-documentation)
+- [X] [Architecture]()
+- [X] [Database (Diagram, Structure)](https://dbdiagram.io/d/616d8599940c4c4eec9b142a)
+- [X] [Project Costs](https://github.com/IPL-Grupo-LPG/jobby-documentation)
 - [x] [Source Control](https://github.com/IPL-Grupo-LPG)
   - [x] [Git Mobile](https://github.com/IPL-Grupo-LPG/jobby-android)
-  - [ ] Git APIs
+  - [X] [Git API](https://github.com/IPL-Grupo-LPG/jobby-website/tree/master/jobby/backend/modules/v1)
   - [x] [App Web](https://github.com/IPL-Grupo-LPG/jobby-website)
  - [x] Documentation
     - [x] [App Web](https://github.com/IPL-Grupo-LPG/jobby-website/tree/main/documentation)
     - [x] [Git Mobile](https://github.com/IPL-Grupo-LPG/jobby-android/tree/main/documentation)
-  - [ ] BD
+  - [X] [BD](#)
 - [ ] Unit Tests
-- [ ] Mobile Development
 - [ ] UI Style Guide
 ### I Wish
 * Que a aplicação seja rápida, segura e de fácil uso.
