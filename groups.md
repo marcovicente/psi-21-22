@@ -13,7 +13,7 @@
 <a name="group_adg"></a>
 ## Group ADG
 ### Participants
-* Alberto Correia
+* Andreia Agostinho
 * Diogo Pereira
 * Gonçalo Ferreira
 ### Status
