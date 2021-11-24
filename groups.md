@@ -281,8 +281,8 @@
 - [ ] Sources Android
 - [ ] Planning
 - [ ] Sprint Planning
-- [ ] [Architecture] (https://github.com/razorlace13/projeto21-22/blob/main/documentos/Arquitetura%20de%20referencia.pptx)
-- [ ] [Database] (https://github.com/razorlace13/projeto21-22/tree/main/base_dados)
+- [ ] [Architecture](https://github.com/razorlace13/projeto21-22/blob/main/documentos/Arquitetura%20de%20referencia.pptx)
+- [ ] [Database](https://github.com/razorlace13/projeto21-22/tree/main/base_dados)
 - [ ] [Documentation](https://github.com/razorlace13/projeto21-22/documentos)
 - [ ] Source Control
   - [ ] [Git Mobile](https://github.com/razorlace13/projeto21-22/tree/main/acesso_movel)
