@@ -31,8 +31,8 @@
   - [x] [Git APIs](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/develop/web/carbuddy/frontend/modules/api)
   - [x] [App Web](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/main/web)
   - [x] [BD](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/main/database)
-- [ ] Unit Tests
-- [ ] Mobile Development
+- [X] [Unit Tests](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/main/web/carbuddy/frontend/tests)
+- [X] [Mobile Development](https://github.com/DiogoRCP/PSI_PROJETO_ADG/tree/main/app)
 - [x] [UI Style Guide](https://www.figma.com/file/aH96TiCLk1dLRaaeGuWaNi/UI-Style-Guide?node-id=4%3A2)
 - [x] [Prototyping](https://www.figma.com/file/T3SWniUQivSStoY5D7SEgH/carros?node-id=0%3A1)
 ### I Wish
