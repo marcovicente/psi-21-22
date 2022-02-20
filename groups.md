@@ -191,10 +191,6 @@
 - [X] [Product Vision](https://github.com/IPL-Grupo-LPG/Jobby-Documentation)
 - [X] [Product Backlog](https://student-ipleiria.atlassian.net/jira/software/c/projects/JOB/boards/8/backlog?issueLimit=100)
 - [X] [Sprint Planning](https://student-ipleiria.atlassian.net/jira/software/c/projects/JOB/boards/8)
-- [X] [Sprint Reports](https://student-ipleiria.atlassian.net/projects/JOB?selectedItem=com.atlassian.jira.jira-projects-plugin%3Areport-page) 
-  - [X] [Burndown Graphic](https://student-ipleiria.atlassian.net/jira/software/c/projects/JOB/boards/8/reports/burndown-chart?sprint=20&estimate=field_customfield_10028)
-  - [X] [Burnup Graphic](https://student-ipleiria.atlassian.net/jira/software/c/projects/JOB/boards/8/reports/burnup-chart?sprint=20)
-  - [X] [Sprint Report](https://student-ipleiria.atlassian.net/jira/software/c/projects/JOB/boards/8/reports/sprint-retrospective?sprint=18) 
 - [X] [Architecture](https://github.com/IPL-Grupo-LPG/jobby-documentation)
 - [X] [Database (Diagram, Structure)](https://dbdiagram.io/d/616d8599940c4c4eec9b142a)
 - [X] [Project Costs](https://github.com/IPL-Grupo-LPG/jobby-documentation)
@@ -207,18 +203,17 @@
     - [x] [Git Mobile](https://github.com/IPL-Grupo-LPG/jobby-android/tree/main/documentation)
   - [X] [BD](https://github.com/IPL-Grupo-LPG/jobby-website/tree/master/database)
 - [X] Testes
-  - [Testes Unitários Frontend](https://github.com/IPL-Grupo-LPG/jobby-website/tree/master/jobby/frontend/tests/unit)
-  - [Testes Unitários Common](https://github.com/IPL-Grupo-LPG/jobby-website/tree/master/jobby/common/tests/unit/models)
-  - [Testes Funcionais Frontend](https://github.com/IPL-Grupo-LPG/jobby-website/tree/master/jobby/frontend/tests/functional)
-  - [Testes Funcionais Backend](https://github.com/IPL-Grupo-LPG/jobby-website/tree/master/jobby/backend/tests/functional)
-  - [Testes Aceitação Frontend](https://github.com/IPL-Grupo-LPG/jobby-website/tree/master/jobby/frontend/tests/acceptance)
+  - [X] [Testes Unitários Frontend](https://github.com/IPL-Grupo-LPG/jobby-website/tree/master/jobby/frontend/tests/unit)
+  - [x] [Testes Funcionais Frontend](https://github.com/IPL-Grupo-LPG/jobby-website/tree/master/jobby/frontend/tests/functional)
+  - [x] [Testes Funcionais Backend](https://github.com/IPL-Grupo-LPG/jobby-website/tree/master/jobby/backend/tests/functional)
+  - [x] [Testes Aceitação Frontend](https://github.com/IPL-Grupo-LPG/jobby-website/tree/master/jobby/frontend/tests/acceptance)
 - [X] UI Style Guide
-  - [Wireframes Web](https://github.com/IPL-Grupo-LPG/jobby-website/tree/master/documentation/wireframes)
-  - [Wireframes Mobile](#)
+  - [x] [Wireframes Web](https://github.com/IPL-Grupo-LPG/jobby-website/tree/master/documentation/wireframes)
+  - [x] [Wireframes Mobile](https://github.com/IPL-Grupo-LPG/jobby-android/tree/master/documentation/wireframes)
 ### I Wish
 * Que a aplicação seja rápida, segura e de fácil uso.
 ### I Like
-* Stuff going very well
+* A aplicação tem a versão 1 Concluída, a aplicação é rápida, responsiva e de fácil uso.
 
 <a name="group_fjp"></a>
 ## Group FJP
